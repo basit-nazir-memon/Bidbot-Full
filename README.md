@@ -350,11 +350,11 @@ For support and questions:
 <details>
 <summary>Demo Application</summary>
 
-<video src="../video/demo-application.mkv" controls width="600"></video>
+<video src="./video/demo-application.mkv" controls width="600"></video>
 </details>
 
 <details>
 <summary>Demo Extension</summary>
 
-<video src="../video/demo-extension.mkv" controls width="600"></video>
+<video src="./video/demo-extension.mkv" controls width="600"></video>
 </details>
