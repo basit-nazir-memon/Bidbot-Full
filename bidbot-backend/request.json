@@ -1,0 +1,32 @@
+{
+  "jobDescription": "",
+  "proposalChanges": "",
+  "tone": "Professional",
+  "maxLength": 500,
+  "prevProjects": [
+    {
+      "description": "",
+      "proposal": ""
+    }
+  ],
+  "files": [],
+  "tags": [""],
+
+  "fixedBudget": 100,
+  "country": "United States",
+
+  "maxHourlyPrice": 100,
+
+  "minHourlyPrice": null,
+
+  "title": "React Developer For Home Page",
+  "type": "fixed",
+
+  "proposalTemplate": ["Greetings", "Intro", "Job Discussion", "CTA"],
+
+  "mentionModuleWiseProjectDivision": true,
+  "showCostDivisionForModules": true,
+  "showTimeDivisionForModules": true,
+
+  "jobEstimatedDuration": "" // only present in the case of hourly job
+}
